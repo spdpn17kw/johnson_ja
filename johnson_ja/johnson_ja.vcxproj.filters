@@ -27,4 +27,8 @@
       <Filter>Pliki źródłowe</Filter>
     </ClCompile>
   </ItemGroup>
+  <ItemGroup>
+    <Text Include="ta000txt.txt" />
+    <Text Include="test.txt" />
+  </ItemGroup>
 </Project>
